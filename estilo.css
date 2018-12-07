@@ -1,0 +1,85 @@
+#corpo{
+	font-family:Arial, Verdana;
+	z-index:0;
+	width:100%;
+	height:50%;
+	color:#d43439;
+}
+#loginbox{
+	z-index:1;
+	position:absolute;
+	top:20%;
+	left:35%;
+	background:white;
+	width:25%;
+	height:40%;
+	border: solid #d43439 3px;
+	border-radius:10px;
+	text-align:center;
+}
+#tblogin{
+	position:relative;
+	left:10%;
+	top:0%;
+	font-size:15;
+	color:#d43439;
+	text-align:center;
+}
+#blogin{
+     background:white;
+	 color:#d43439;
+	 height:50px;
+	 width:100px;
+}
+.ilogin{
+	width:200px;
+	height:30px;
+	color:#d43439;
+}
+#menu{
+	position:absolute;
+	top:0%;
+	left:0%;
+	width:100%;
+	height:10%;
+	border-bottom-style: solid;
+	text-align:center;
+	font-size:20;
+	background:white;
+}
+#conteudo{
+	position:absolute;
+	top:15%;
+	left:13%;
+	background:white;
+	width:74%;
+	height:75%;
+	border: solid #d43439 3px;
+	border-radius:10px;
+	text-align:center;
+}
+a{
+	color:#d43439;
+	text-decoration:none;
+}
+#tbestoque{
+	position:relative;
+	left:2%;
+	color:#d43439;
+	border: solid 2px #d43439;
+	border-collapse: collapse;
+	width:96%;
+	height:20%;
+	text-align:center;
+}
+#tbbar{
+	position:relative;
+	left:2%;
+	color:#d43439;
+	border: solid 2px #d43439;
+	border-collapse: collapse;
+	width:96%;
+	height:20%;
+	overflow:auto;
+	text-align:center;
+}
